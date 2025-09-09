@@ -1,1 +1,44 @@
-# rock-paper-scissors-game
+# Rock Paper Scissors 🎮
+
+A simple Rock-Paper-Scissors game in Python.
+
+---
+
+## 📂 Project Structure
+rock_paper_scissors_game/
+│
+├── rock_paper_scissors.py
+└── README.md # this file
+
+
+---
+
+## 🚀 How to Run
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/rock_paper_scissors_game.git
+2. Go inside the folder:
+   cd rock_paper_scissors_game
+3.Run the game:
+  python rock_paper_scissors.py
+
+## ✨ Features: 
+- Play against the computer 🤖
+- ASCII art for rock, paper, and scissors ✂️
+- Detects win/lose/draw
+
+## 💡 Future Ideas :
+- Add scoreboard
+- Play best-of-5 mode
+- GUI version with Tkinter or Pygame
+
+## 📸 Screenshots
+Here’s an example run of the game:
+
+![Game Screenshot](images/screenshot.png)
+
+
+
+## 🛠️ Requirements
+
+Python 3.13.5 installed on your system
