@@ -47,5 +47,5 @@ Here’s an example run of the game:
 
 
 ## 🛠️ Requirements
+- Python 3.x installed on your system
 
-Python 3.13.5 installed on your system
