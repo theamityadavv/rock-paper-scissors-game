@@ -24,7 +24,7 @@ A simple Rock-Paper-Scissors game in Python.
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/rock_paper_scissors_game.git
+   git clone https://github.com/theamityadavv/rock-paper-scissors-game.git
 2. Go inside the folder:
    cd rock_paper_scissors_game
 3.Run the game:
