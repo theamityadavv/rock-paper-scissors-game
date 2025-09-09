@@ -1,4 +1,8 @@
-# Rock Paper Scissors 🎮
+# Rock Paper Scissors Game🎮
+
+![Python](https://img.shields.io/badge/python-3.13.5-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 
 A simple Rock-Paper-Scissors game in Python.
 
