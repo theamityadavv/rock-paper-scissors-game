@@ -36,7 +36,7 @@ A simple Rock-Paper-Scissors game in Python.
 ## 📸 Screenshots
 Here’s an example run of the game:
 
-![Game Screenshot](images/screenshot.png)
+![Game Screenshot](images/screenshot.jpg)
 
 
 
