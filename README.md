@@ -11,9 +11,12 @@ A simple Rock-Paper-Scissors game in Python.
 ## 📂 Project Structure
 ``` 
  rock-paper-scissors-game/
-                    │
-                    ├── rock_paper_scissors.py
-                    └── README.md  # this file
+│
+├── images/                  
+├── LICENSE                  
+├── README.md                
+└── rock_paper_scissors.py 
+
  ```
 
 ---
